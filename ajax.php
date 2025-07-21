@@ -1,4 +1,4 @@
-/*
+/* 
   基础样式重置与通用配置
   可直接用于网页项目，上传至GitHub后通过link引入使用
 */
@@ -64,23 +64,4 @@ a:hover {
 .card {
   background-color: white;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-/* 响应式调整 */
-@media (max-width: 768px) {
-  .container {
-    padding: 0 10px;
-  }
-
-  .btn {
-    padding: 6px 12px;
-    font-size: 13px;
-  }
-
-  .card {
-    padding: 15px;
-  }
-}
+  box-shadow: 0 2px 8px rgba(0, 0,
